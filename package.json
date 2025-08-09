@@ -16,8 +16,7 @@
     "@ui5/cli": "^4.0.16",
     "mbt": "^1.2.29",
     "rimraf": "^5.0.5",
-    "ui5-task-zipper": "^3.4.x",
-    "grunt": "^1.6.1"
+    "ui5-task-zipper": "^3.4.x"
 
   },
   "scripts": {
