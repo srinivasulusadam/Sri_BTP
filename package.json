@@ -10,6 +10,7 @@
   "main": "webapp/index.html",
   "dependencies": {
     "mta": "^1.0.8"
+    
   },
   "devDependencies": {
     "@sap/ux-ui5-tooling": "1",
